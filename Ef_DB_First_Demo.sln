@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ef_DB_First_Demo", "Ef_DB_First_Demo.csproj", "{48DE4B45-DEBC-474C-A08B-3B49F60C0BC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestsharpTestProject1", "..\RestsharpTestProject1\RestsharpTestProject1.csproj", "{EFCA4AAA-06A7-4DF4-94EA-3009E9C0B56A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48DE4B45-DEBC-474C-A08B-3B49F60C0BC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48DE4B45-DEBC-474C-A08B-3B49F60C0BC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48DE4B45-DEBC-474C-A08B-3B49F60C0BC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48DE4B45-DEBC-474C-A08B-3B49F60C0BC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFCA4AAA-06A7-4DF4-94EA-3009E9C0B56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFCA4AAA-06A7-4DF4-94EA-3009E9C0B56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFCA4AAA-06A7-4DF4-94EA-3009E9C0B56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFCA4AAA-06A7-4DF4-94EA-3009E9C0B56A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75247DE9-04B4-4D68-A9F8-48BED5768644}
+	EndGlobalSection
+EndGlobal
